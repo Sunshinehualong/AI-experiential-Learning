@@ -2,6 +2,10 @@
 AI 学习实践开发
 
 
+## [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  
+> A curated list of awesome Deep Learning tutorials, projects and communities.  
+
+
 ## AI框架学习
 
 - [MXNet/Gluon论坛](https://discuss.gluon.ai/)  
