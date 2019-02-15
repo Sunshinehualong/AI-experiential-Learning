@@ -4,8 +4,19 @@ AI 学习实践开发
 
 ## AI框架学习
 
+- [MXNet/Gluon论坛](https://discuss.gluon.ai/)  
 
 - [MXNet2Caffe  Convert MXNet model to Caffe model](https://github.com/cypw/MXNet2Caffe)
+
+### caffe
+
+- [caffe with python](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
+A Practical Introduction to Deep Learning with Caffe and Python
+>Machine Learning vs. Deep Learning  
+ Artificial Neural Networks  
+ Convolutional Neural Networks   
+ Model Definition - Solver Definition - Model Training - Prediction on New Data  - Transfer Learning  
+
 
  
 ## 深度估计与视觉定位应用
