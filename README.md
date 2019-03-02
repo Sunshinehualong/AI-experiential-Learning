@@ -8,7 +8,9 @@ AI 学习实践开发
 
 ## AI框架学习
 
-- [MXNet/Gluon论坛](https://discuss.gluon.ai/)  
+- [MXNet/Gluon论坛](https://discuss.gluon.ai/) 
+
+- [PyTorch 中文手册（pytorch handbook）](https://github.com/zergtant/pytorch-handbook)
 
 - [MXNet2Caffe  Convert MXNet model to Caffe model](https://github.com/cypw/MXNet2Caffe)
 
